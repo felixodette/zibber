@@ -30,15 +30,15 @@ const HomeOneHeader = () => {
                            <div className="header__info f-right">
                               <ul>
                                  <li>
-                                    <a href="tel:(+468)-254-762-443">
+                                    <a href="tel:(+44)-70438-850-098">
                                        <i > <FaPhoneAlt/> </i>
-                                       (+468) 254 762 443
+                                       (+44) 70438 850 098
                                     </a>
                                  </li>
                                  <li>
                                     <a href="mailto:info@consulting.com">
                                        <i > <FaEnvelope/> </i>
-                                       info@consulting.com
+                                       griffinrec@aol.com
                                     </a>
                                  </li>
                                  <li>
@@ -58,12 +58,12 @@ const HomeOneHeader = () => {
                         <div className="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
                            <div className="logo">
                               <NavLink to="/">
-                                 <img src="assets/img/logo/logo.png" alt="logo"/>
+                                 <img style={{width: "105"}} src="assets/img/logo/Griffin - Logo.png" alt="logo"/>
                               </NavLink>
                            </div>
                            <div className="logo-gradient">
                               <NavLink to="/">
-                                 <img src="assets/img/logo/logo-gradient.png" alt="logo"/>
+                                 <img src="assets/img/logo/Griffin - Gold Logo.png" alt="logo"/>
                               </NavLink>
                            </div>
                         </div>
@@ -74,26 +74,26 @@ const HomeOneHeader = () => {
                                     <ul>
                                        <li>
                                           <NavLink  to="/home">Home</NavLink>
-                                          <ul className="submenu">
-                                             <li><NavLink to="/home">Home Style 1</NavLink></li>
-                                             <li>
-                                                <NavLink to="/homeTwo">Home Style 2</NavLink>
-                                                <ul className="submenu">
-                                                   <li><NavLink to="/home">Home Style 1</NavLink></li>
-                                                   <li><NavLink to="/homeTwo">Home Style 2</NavLink></li>
-                                                   <li><NavLink to="/homeThree">Home Style 3</NavLink></li>
-                                                </ul>
-                                             </li>
-                                             <li>
-                                                <NavLink to="/homeThree">Home Style 3</NavLink>
-                                                <ul className="submenu">
-                                                   <li><NavLink to="/headerStyleFour">Header Syle 4</NavLink></li>
-                                                   <li><NavLink to="/headerStyleFive">Header Syle 5</NavLink></li>
-                                                   <li><NavLink to="/headerStyleSix">Header Syle 6</NavLink></li>
-                                                   <li><NavLink to="/headerStyleSeven">Header Syle 7</NavLink></li>
-                                                </ul>
-                                             </li>
-                                          </ul>
+                                          {/*<ul className="submenu">*/}
+                                          {/*   <li><NavLink to="/home">Home Style 1</NavLink></li>*/}
+                                          {/*   <li>*/}
+                                          {/*      <NavLink to="/homeTwo">Home Style 2</NavLink>*/}
+                                          {/*      <ul className="submenu">*/}
+                                          {/*         <li><NavLink to="/home">Home Style 1</NavLink></li>*/}
+                                          {/*         <li><NavLink to="/homeTwo">Home Style 2</NavLink></li>*/}
+                                          {/*         <li><NavLink to="/homeThree">Home Style 3</NavLink></li>*/}
+                                          {/*      </ul>*/}
+                                          {/*   </li>*/}
+                                          {/*   <li>*/}
+                                          {/*      <NavLink to="/homeThree">Home Style 3</NavLink>*/}
+                                          {/*      <ul className="submenu">*/}
+                                          {/*         <li><NavLink to="/headerStyleFour">Header Syle 4</NavLink></li>*/}
+                                          {/*         <li><NavLink to="/headerStyleFive">Header Syle 5</NavLink></li>*/}
+                                          {/*         <li><NavLink to="/headerStyleSix">Header Syle 6</NavLink></li>*/}
+                                          {/*         <li><NavLink to="/headerStyleSeven">Header Syle 7</NavLink></li>*/}
+                                          {/*      </ul>*/}
+                                          {/*   </li>*/}
+                                          {/*</ul>*/}
                                        </li>
                                        <li><NavLink to="/about">About Us </NavLink></li>
                                        <li>
