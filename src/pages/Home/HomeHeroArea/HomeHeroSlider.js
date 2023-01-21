@@ -50,8 +50,8 @@ const HomeHeroArea = () => {
                            <div className="row">
                               <div className="col-xl-9 col-lg-9 col-md-10 col-sm-10">
                                  <div className="slider__content">
-                                    <span>We’ve added a new exciting feature in v2.0.</span>
-                                    <h1>Get all the essentials <br /> in a lightweight package</h1>
+                                    <span>We’re the service staffing industry v2.0.</span>
+                                    <h1>Get all your service staff <br /> in a lightweight package</h1>
                                     <div className="slider__btn">
                                        <Link to="/contact" className="z-btn z-btn-transparent">Get a quote</Link>
                                     </div>
