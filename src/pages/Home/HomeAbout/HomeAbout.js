@@ -20,14 +20,14 @@ const HomeAbout = () => {
                      <div className="about__content">
                         <div className="section__title mb-25">
                            <span>Who we are</span>
-                           <h2>We Unlock Potential</h2>
+                           <h2>We Provide Seamless Service</h2>
                         </div>
-                        <p>Why I say old chap that is spiffing do one, cup of char bite your arm off lavatory bugger all mate bog-standard bits and bobs I'm telling barmy blow.</p>
+                        <p>We understand that your business needs continuous provision of services to your clients without compromise in quality and service delivery.</p>
                         <div className="about__list">
                            <ul>
                               <li ><span><i > <FaCheck/> </i>Innovative ideas</span></li>
                               <li ><span><i > <FaCheck/> </i>Professional assistance</span></li>
-                              <li ><span><i > <FaCheck/> </i>Financial advisory</span></li>
+                              <li ><span><i > <FaCheck/> </i>Personnel training</span></li>
                            </ul>
                         </div>
                         <Link to="/services" className="z-btn " >What we do<i > <CgArrowLongRight /> </i></Link>
