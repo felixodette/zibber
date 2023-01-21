@@ -30,7 +30,7 @@ const HomeOneHeader = () => {
                            <div className="header__info f-right">
                               <ul>
                                  <li>
-                                    <a href="tel:(+468)-254-762-443">
+                                    <a href="tel:(+44)-70438-850-098">
                                        <i > <FaPhoneAlt/> </i>
                                        (+468) 254 762 443
                                     </a>
