@@ -13,7 +13,7 @@ const HomeTeams = () => {
                   <div className="col-xl-6 col-lg-8 col-md-8 col-sm-8">
                      <div className="section__title section__title-3 mb-30">
                         <span>Our Team</span>
-                        <h2>We help to create visual strategies.</h2>
+                        <h2>We help to create exceptional experiences.</h2>
                      </div>
                   </div>
                   <div className="col-xl-6 col-lg-4 col-md-4 col-sm-4">
@@ -28,8 +28,8 @@ const HomeTeams = () => {
                   <SingleTeam image="2" name="Norman Gordon" title="Associate Consultant" />
                   <SingleTeam image="3" name="Indigo Violet" title="Project Manager" />
                   <SingleTeam image="4" name="Dylan Meringue" title="Support" />
-                  <SingleTeam image="5" name="Berlin Corleone" title="App Developer" />
-                  <SingleTeam image="6" name="Shahnewaz Sakil" title="Web Developer" />
+                  <SingleTeam image="5" name="Berlin Corleone" title="Personnel Manager" />
+                  <SingleTeam image="6" name="Shahnewaz Sakil" title="Business Development" />
 
                   <div className="col-xl-3 col-lg-4 col-md-6">
                      <div className="team__item team__item-add p-relative text-center fix mb-30" >
