@@ -12,14 +12,14 @@ const SinglePrice = ({title,price,active}) => {
                <div className="price__inner p-relative">
                   <p>{title}</p>
                   <div className="price__tag mb-45">
-                     <h1>{`$${price}`}</h1>
+                     <h1>{`£${price}`}</h1>
                      <span>Per month</span>
                   </div>
                   <div className="price__features text-start mb-55">
                      <ul>
-                        <li><span>Upload Your Logo</span></li>
-                        <li><span>Stock photos & videos</span></li>
-                        <li><span>Video Templates Library</span></li>
+                        <li><span>Concierge</span></li>
+                        <li><span>Chefs</span></li>
+                        <li><span>Room Attendants</span></li>
                      </ul>
                   </div>
                   <Link to="/contact" className="price-btn">Get Started</Link>
