@@ -28,7 +28,7 @@ const SinglePortfolio = ({ portfolio, filterPortfolio, index }) => {
          )}
 
          <div className={img === "assets/img/portfolio/port-1.jpg" ? "col-xl-8 col-lg-8 col-md-6 col-sm-6" :
-            "col-xl-4 col-lg-4 col-md-6 col-sm-6"}>
+            "col-xl-4 col-lg-4 col-mdstyle={{width: '10%', position: 'fixed'}}style={{width: '10%', position: 'fixed'}}-6 col-sm-6"}>
             <div className="portfolio__item p-relative mb-30">
                <div className="portfolio__thumb w-img fix">
                   <img src={img} alt="" />

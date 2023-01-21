@@ -56,12 +56,12 @@ const Footer = () => {
                               <div className="footer__widget-content">
                                  <div className="footer__links">
                                     <ul>
-                                       <li><a href="#">UI Design</a></li>
-                                       <li><a href="#">Agencies</a></li>
-                                       <li><a href="#">Digital Marketing</a></li>
-                                       <li><a href="#">SEO for Business</a></li>
-                                       <li><a href="#">Enterprise</a></li>
-                                       <li><a href="#">Publishers</a></li>
+                                       <li><a href="#">Concierge</a></li>
+                                       <li><a href="#">Room Attendants</a></li>
+                                       <li><a href="#">Porters</a></li>
+                                       <li><a href="#">Bar Staff & Waiters</a></li>
+                                       <li><a href="#">Reception</a></li>
+                                       <li><a href="#">Training</a></li>
                                     </ul>
                                  </div>
                               </div>
@@ -80,7 +80,7 @@ const Footer = () => {
                                              <i > <BiMap /> </i>
                                           </div>
                                           <div className="text">
-                                             <span>Ave 14th Street, Mirpur 210, San Franciso, USA 3296.</span>
+                                             <span>67 Albert Road, Suite 506, London NW39 6XV.</span>
                                           </div>
                                        </li>
                                        <li>
@@ -88,7 +88,7 @@ const Footer = () => {
                                              <i > <FaEnvelope/> </i>
                                           </div>
                                           <div className="text theme-color ">
-                                             <span><a href="mailto:support@zibber.com">support@zibber.com</a></span>
+                                             <span><a href="mailto:support@zibber.com">griffinrec@aol.com</a></span>
                                           </div>
                                        </li>
                                        <li>
@@ -96,7 +96,7 @@ const Footer = () => {
                                              <i ><FaPhoneAlt/> </i>
                                           </div>
                                           <div className="text theme-color">
-                                             <span><a href="tel:(+642)-394-396-432">(+642) 394 396 432</a></span>
+                                             <span><a href="tel:(+642)-394-396-432">(+44) 70438 850 098</a></span>
                                           </div>
                                        </li>
                                     </ul>
@@ -112,7 +112,7 @@ const Footer = () => {
                      <div className="row align-items-center">
                         <div className="col-xl-6 col-lg-6 col-md-6">
                            <div className="footer__copyright-text">
-                              <p>Copyright © 2022 All Rights Reserved passion by <Link to="/">Theme_Pure</Link></p>
+                              <p>Copyright © 2022 All Rights Reserved <Link to="/">MightGriffin</Link></p>
                            </div>
                         </div>
                         <div className="col-xl-6 col-lg-6 col-md-6">

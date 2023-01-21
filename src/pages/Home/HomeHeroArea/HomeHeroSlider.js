@@ -33,7 +33,7 @@ const HomeHeroArea = () => {
 
    return (
       <>
-         <VideoPopup videoId="yJg-Y5byMMw" />
+         <VideoPopup videoId="qCrpQuijqeQ" />
 
          <section className="slider__area">
                <Slider className='slider-active' {...settings}>

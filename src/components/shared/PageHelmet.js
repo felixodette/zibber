@@ -6,9 +6,9 @@ const PageHelmet = ({ pageTitle }) => {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>{pageTitle} || Consulting React Template </title>
+                <title>{pageTitle} || MightyGriffin </title>
                 <meta name="robots" content="noindex, follow" />
-                <meta name="description" content="Zibber - Consulting React Template" />
+                <meta name="description" content="MightyGriffin Recruitment" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
             </Helmet>
         </>
