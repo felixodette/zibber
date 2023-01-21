@@ -15,13 +15,13 @@ const HomeCapabilities = () => {
                      <div className="capabilities__content wow fadeInUp" data-wow-delay=".4s">
                         <div className="section__title section__title-2 mb-60">
                            <span className="white-color">Capabilities</span>
-                           <h2 className="white-color">Strategy-led design in every detail</h2>
+                           <h2 className="white-color">Strategy-led service in every detail</h2>
                         </div>
                         <div className="capabilities__list">
                            <ol>
                               <li >Analysis & Idea</li>
-                              <li >Design & Development</li>
-                              <li >Testing & Launch</li>
+                              <li >Training & Development</li>
+                              <li >Quality Testing</li>
                            </ol>
                         </div>
                      </div>
