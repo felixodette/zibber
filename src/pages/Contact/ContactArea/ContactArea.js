@@ -15,16 +15,16 @@ const ContactArea = () => {
                               <ul>
                                  <li>
                                     <h4>Address</h4>
-                                    <p>24 Parking Plaza, Suite 506 <br /> Ardmore, SA 19004</p>
+                                    <p>67 Albert Road, Suite 506 <br /> London, NW39 6XV</p>
                                  </li>
                                  <li>
                                     <h4>call us</h4>
-                                    <p><a href="tel:(404)-888-123-456">(404) 888 123 456</a></p>
-                                    <p><a href="tel:(204)-888-234-674">(204) 888 234 674</a></p>
+                                    <p><a href="tel:(404)-888-123-456">(+44) 70438 850 098</a></p>
+                                    <p><a href="tel:(204)-888-234-674">(+44) 70438 850 098</a></p>
                                  </li>
                                  <li>
                                     <h4>Email Address</h4>
-                                    <p><a href="mailto:Info@example.com">Info@example.com</a></p>
+                                    <p><a href="mailto:griffinrec@aol.com">griffinrec@aol.com</a></p>
                                  </li>
                               </ul>
                            </div>

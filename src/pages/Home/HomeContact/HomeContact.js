@@ -24,7 +24,7 @@ const HomeContact = () => {
                                  </li>
                                  <li>
                                     <h4>Email Address</h4>
-                                    <p><a href="mailto:Info@example.com">griffinrec@aol.com</a></p>
+                                    <p><a href="mailto:griffinrec@aol.com">griffinrec@aol.com</a></p>
                                  </li>
                               </ul>
                            </div>
