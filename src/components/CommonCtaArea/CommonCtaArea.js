@@ -11,7 +11,7 @@ const CommonCtaArea = () => {
                   <div className="col-xl-10 offset-xl-1">
                      <div className="cta__content text-center">
                         <span >We’re hiring.</span>
-                        <h1 >Do you want to pursue a career in the service industry? Contact us</h1>
+                        <h1 >Do you want to pursue a career in the hospitality industry?</h1>
                         <div className="cta__btn">
                            <Link to="/contact" className="z-btn z-btn-white mb-30">Contact Us</Link>
                            <Link to="/contact" className="z-btn z-btn-transparent mb-30">Work with us</Link>

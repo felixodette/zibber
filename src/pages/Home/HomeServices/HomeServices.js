@@ -10,7 +10,7 @@ const HomeServices = () => {
                   <div className="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                      <div className="section__title section__title-3 text-center mb-90 wow fadeInUp" data-wow-delay=".2s">
                         <span>Our Services</span>
-                        <h2>We provide awesome service with exceptional staff.</h2>
+                        <h2>We provide great service with exceptional hospitality staff.</h2>
                      </div>
                   </div>
                </div>
