@@ -10,18 +10,18 @@ const HomeTwoAchievement = () => {
                   <div className="col-xl-5 col-lg-6 col-md-6">
                      <div className="achievement__content">
                         <div className="section__title section__title-3 mb-20">
-                           <span>Achievement</span>
-                           <h2>We are certified financial experts</h2>
+                           <span>How We Do It</span>
+                           <h2>We connect to learn</h2>
                         </div>
-                        <p>He nicked it fantastic well on your bike mate have it a I bum bag I twit easy peasy that, chimney pot amongst are you taking the piss daft show off show off pick.</p>
+                        <p>Our aim is to provide both employers and jobseekers with the optimum service level. We start our process with an in-depth conversation to help us build a relationship. Understanding clients’ needs is a cornerstone in our process.</p>
                         <div className="achievement__wrapper d-flex d-md-block d-lg-flex justify-content-between mb-35 wow fadeInUp" data-wow-delay=".8s">
                            <div className="achievement__item mb-30">
                               <img src="assets/img/icon/achievement/achievement-1.png" alt="achievement"/>
-                                 <h3>Acquisitions Finance Consulting</h3>
+                                 <h3>Hospitality Training Consulting</h3>
                            </div>
                            <div className="achievement__item mb-30">
                               <img src="assets/img/icon/achievement/achievement-2.png" alt="achievement"/>
-                                 <h3>Private Placement Consulting</h3>
+                                 <h3>Hospitality Placement Consulting</h3>
                            </div>
                         </div>
                         <Link to="/about" className="z-btn">Learn More</Link>

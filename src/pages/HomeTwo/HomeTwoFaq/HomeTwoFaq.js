@@ -10,7 +10,7 @@ const HomeTwoFaq = () => {
                   <div className="col-xl-5 offset-xl-7 col-lg-6 offset-lg-6 col-md-7 offset-md-5">
                      <div className="faq__wrapper">
                         <div className="section__title section__title-3 mb-25 wow fadeInUp" data-wow-delay=".2s">
-                           <span>Thinking</span>
+                           <span>What We Do</span>
                            <h2>Knowledge is <br/> the best investment</h2>
                         </div>
 
@@ -20,14 +20,14 @@ const HomeTwoFaq = () => {
                               <div className="accordion-header" id="headingOne">
                                  <h5 className="mb-0">
                                     <button className="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       No rocket science included
+                                       Permanent Recruitment
                                     </button>
                                  </h5>
                               </div>
 
                               <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
-                                    Nancy boy it's all gone to pot grub absolutely bladdered some dodgy chav owt to do with me vagabond only.!
+                                    Looking to recruit people on a permanent basis? We offer a number of search and selection options. We tap into our resources and embark on advertising campaigns to reach a local or global audience reach.
                                  </div>
                               </div>
                            </div>
@@ -36,13 +36,13 @@ const HomeTwoFaq = () => {
                               <div className="accordion-header" id="headingTwo">
                                  <h5 className="mb-0">
                                     <button className="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                       Blazing Site Performance
+                                       Interim Recruitment
                                     </button>
                                  </h5>
                               </div>
                               <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
-                                    Nancy boy it's all gone to pot grub absolutely bladdered some dodgy chav owt to do with me vagabond only.!
+                                    Are you looking for a solution for temporary vacant positions? Interim recruitment is a flexible and reliable way of hiring. We provide recruitment for employment offered on a temporary basis or for defined periods of time.
                                  </div>
                               </div>
                            </div>
@@ -51,13 +51,13 @@ const HomeTwoFaq = () => {
                               <div className="accordion-header" id="headingThree">
                                  <h5 className="mb-0">
                                     <button className="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                       Bonus Plugins Included
+                                       Other Services
                                     </button>
                                  </h5>
                               </div>
                               <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                  <div className="card-body accordion-body">
-                                    Nancy boy it's all gone to pot grub absolutely bladdered some dodgy chav owt to do with me vagabond only.!
+                                    From recruitment campaign advertising and psychometric assessments, to recruitment training and salary benchmarking, we offer a 360° service to connect you to the best talent.
                                  </div>
                               </div>
                            </div>
