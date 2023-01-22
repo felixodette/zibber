@@ -15,7 +15,7 @@ const Sidebar = ({ show, handleClose }) => {
                <Offcanvas.Header closeButton>
                   <div className="logo">
                      <a href="index.html">
-                        <img src="assets/img/logo/logo.png" alt="logo" />
+                        <img src="assets/img/logo/Griffin - Logo.png" style={{width: '70%'}} alt="logo" />
                      </a>
                   </div>
                </Offcanvas.Header>
@@ -45,22 +45,22 @@ const Sidebar = ({ show, handleClose }) => {
                                        triggerOpenedClassName="icon_close" triggerClassName="iconAdd" open={false}>
                                        <ul className="sidebar_sub_menu text-white">
 
-                                          <li className='pt-10'><NavLink to="/home">Home style 1</NavLink></li>
+                                          <li className='pt-10'><NavLink to="/home">Link 1</NavLink></li>
 
-                                          <Collapsible trigger={<li className='border-0'><NavLink to="/homeTwo">Home style 2</NavLink> </li>} triggerTagName="div" triggerOpenedClassName="sub_child icon_close" triggerClassName="sub_child iconAdd" open={false}>
+                                          <Collapsible trigger={<li className='border-0'><NavLink to="/home">Link 2</NavLink> </li>} triggerTagName="div" triggerOpenedClassName="sub_child icon_close" triggerClassName="sub_child iconAdd" open={false}>
                                              <ul className="sidebar_sub_menu sub_child_menu submenu text-white">
-                                                <li><NavLink to="/home">Home Style 1</NavLink></li>
-                                                <li><NavLink to="/homeTwo">Home Style 2</NavLink></li>
-                                                <li><NavLink to="/homeThree">Home Style 3</NavLink></li>
+                                                <li><NavLink to="/home">Link 1</NavLink></li>
+                                                <li><NavLink to="/home">Link 2</NavLink></li>
+                                                <li><NavLink to="/home">Link 3</NavLink></li>
                                              </ul>
                                           </Collapsible>
 
-                                          <Collapsible trigger={<li className='border-0'><NavLink to="/homeThree">Home style 3</NavLink></li>} triggerTagName="div" triggerOpenedClassName="sub_child icon_close" triggerClassName="sub_child iconAdd" open={false}>
+                                          <Collapsible trigger={<li className='border-0'><NavLink to="/homeThree">Link 3</NavLink></li>} triggerTagName="div" triggerOpenedClassName="sub_child icon_close" triggerClassName="sub_child iconAdd" open={false}>
                                              <ul className="sidebar_sub_menu sub_child_menu submenu text-white">
-                                                <li><NavLink to="/headerStyleFour">Header Syle 4</NavLink></li>
-                                                <li><NavLink to="/headerStyleFive">Header Syle 5</NavLink></li>
-                                                <li><NavLink to="/headerStyleSix">Header Syle 6</NavLink></li>
-                                                <li><NavLink to="/headerStyleSeven">Header Syle 7</NavLink></li>
+                                                <li><NavLink to="/headerStyleFour">Link 4</NavLink></li>
+                                                <li><NavLink to="/headerStyleFive">Link 5</NavLink></li>
+                                                <li><NavLink to="/headerStyleSix">Link 6</NavLink></li>
+                                                <li><NavLink to="/headerStyleSeven">Link 7</NavLink></li>
                                              </ul>
                                           </Collapsible>
 
@@ -109,10 +109,10 @@ const Sidebar = ({ show, handleClose }) => {
                                  <div className="sidebar__info">
                                     <div className="logo mb-40">
                                        <a href="index.html">
-                                          <img src="assets/img/logo/logo.png" alt="logo"/>
+                                          <img src="assets/img/logo/Griffin - Logo.png" style={{width: '50%'}} alt="logo"/>
                                        </a>
                                     </div>
-                                    <p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts of the system and expound.</p>
+                                    <p>We pride ourselves with providing excellent staffing services for all your hospitality requirements. Our length and breadth of experience spans over 30 years in the market.</p>
                                     <a href="contact.html" className="z-btn z-btn-white">contact us</a>
                                     <div className="sidebar__search">
                                        <form action="#">
@@ -127,7 +127,7 @@ const Sidebar = ({ show, handleClose }) => {
                                                 <i > <BiMap /> </i>
                                              </div>
                                              <div className="text">
-                                                <span>Ave 14th Street, Mirpur 210, San Franciso, USA 3296.</span>
+                                                <span>67 Albert Road, Suite 506, London, NW39 6XV.</span>
                                              </div>
                                           </li>
                                           <li>
@@ -135,7 +135,7 @@ const Sidebar = ({ show, handleClose }) => {
                                                 <i > <FaEnvelope /> </i>
                                              </div>
                                              <div className="text ">
-                                                <span><a href="mailto:support@zibber.com">support@zibber.com</a></span>
+                                                <span><a href="mailto:griffinrec@aol.com">griffinrec@aol.com</a></span>
                                              </div>
                                           </li>
                                           <li>
@@ -143,7 +143,7 @@ const Sidebar = ({ show, handleClose }) => {
                                                 <i ><FaPhoneAlt /> </i>
                                              </div>
                                              <div className="text">
-                                                <span><a href="tel:(+642)-394-396-432">(+642) 394 396 432</a></span>
+                                                <span><a href="tel:(+44) 70438 850 098">(+44) 70438 850 098</a></span>
                                              </div>
                                           </li>
                                        </ul>
