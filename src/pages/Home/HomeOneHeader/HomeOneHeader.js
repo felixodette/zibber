@@ -99,8 +99,11 @@ const HomeOneHeader = () => {
                                        <li>
                                           <NavLink to="/services">Services</NavLink>
                                           <ul className="submenu">
-                                             <li><NavLink to="/services">Services</NavLink></li>
-                                             <li><NavLink to="/servicesDetails">Services Details</NavLink></li>
+                                             <li><NavLink to="/services">Recruitment</NavLink></li>
+                                             <li><NavLink to="/servicesDetails">Food and Beverage</NavLink></li>
+                                             <li><NavLink to="/servicesDetails">Front of House</NavLink></li>
+                                             <li><NavLink to="/servicesDetails">Back of House</NavLink></li>
+                                             <li><NavLink to="/servicesDetails">GDR</NavLink></li>
                                           </ul>
                                        </li>
                                        <li>
